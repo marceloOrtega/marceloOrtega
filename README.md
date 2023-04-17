@@ -17,11 +17,7 @@
   <a href="https://www.instagram.com/marceloo_ortega/" target="_blank"><img src="https://img.shields.io/badge/Instagram-211B15?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWUgX5cUT0GbU?si=378f5035b65e4de6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+ ![Snake animation](https://github.com/buzzfps/buzzfps/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 z
