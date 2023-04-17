@@ -20,4 +20,3 @@
  ![Snake animation](https://github.com/buzzfps/buzzfps/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-z
