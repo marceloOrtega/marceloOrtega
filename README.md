@@ -18,6 +18,6 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWUgX5cUT0GbU?si=378f5035b65e4de6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/buzzfps/buzzfps/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marceloOrtega/marceloOrtega/blob/output/github-contribution-grid-snake.svg)
  
 </div>
