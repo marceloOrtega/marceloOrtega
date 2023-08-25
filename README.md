@@ -13,8 +13,7 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/marceloo_ortega/" target="_blank"><img src="https://img.shields.io/badge/Instagram-211B15?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWUgX5cUT0GbU?si=378f5035b65e4de6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
 </div>
