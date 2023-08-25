@@ -10,10 +10,3 @@
   </div>
   <img align="right" alt="gengar" height="150" style="border-radius:75px;" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 
-  
-  ##
- 
-<div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
-</div>
