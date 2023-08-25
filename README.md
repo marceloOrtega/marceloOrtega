@@ -9,6 +9,5 @@
   <a href="https://www.w3schools.com/c/index.php/"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   </div>
   <img align="right" alt="gengar" height="150" style="border-radius:75px;" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
-##
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinimanzano/vinimanzano/output/github-contribution-grid-snake-dark.svg">
